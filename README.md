@@ -3,6 +3,8 @@
 http://gabinaureche.com/logicalornot/
 
 ```
+npm install 
+npm install gulp -g
 ```
 
 ```
